@@ -1,4 +1,4 @@
-# Traffic_and_Emergency-Response_Analysis
+# Traffic and Emergency-Response_Analysis
 
 End-to-end analysis of a synthetic road-traffic and emergency-dispatch dataset: data wrangling, exploratory analysis with group comparisons, and an interactive dashboard. The central question is how **actual emergency response times compare with the expected baseline**, and under which conditions the gap is largest.
 
